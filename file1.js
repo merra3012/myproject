@@ -1,0 +1,1 @@
+alert('hi everybody, hi js');
